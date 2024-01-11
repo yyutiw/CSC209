@@ -1,1 +1,2 @@
-this is a readme
+# FriendNet
+this is a description
