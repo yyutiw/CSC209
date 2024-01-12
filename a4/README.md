@@ -1,2 +1,2 @@
 # FriendNet
-this is a description
+description in progress
